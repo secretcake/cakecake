@@ -1,0 +1,22 @@
+# Ren'Py files
+log.txt
+*.rpyc
+persistent
+
+*.save
+*.jpg
+*.png
+*.rpyb
+*.rpym
+*.rpymc
+*.ttf
+*.ini
+navigation.json
+
+game/images
+game/saves
+game/cache
+game/audio
+game/gui
+game/tl
+.tmp.drivedownload
